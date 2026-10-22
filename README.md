@@ -3,7 +3,7 @@
 
 A 2D platformer written in Java, set in an office overrun by its worst distractions. Fight your way past flying emails, ringing phones and a meeting that won't stop following you, across three levels against the clock.
 
-![Gameplay](docs/gameplay.gif)
+![Gameplay](gameplay.gif)
 
 ## Gameplay
 
